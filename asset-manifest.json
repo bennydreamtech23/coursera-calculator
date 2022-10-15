@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coursera-calculator/static/css/main.36d06352.css",
+    "main.js": "/coursera-calculator/static/js/main.9426eae2.js",
+    "static/js/787.69c1eea2.chunk.js": "/coursera-calculator/static/js/787.69c1eea2.chunk.js",
+    "index.html": "/coursera-calculator/index.html",
+    "main.36d06352.css.map": "/coursera-calculator/static/css/main.36d06352.css.map",
+    "main.9426eae2.js.map": "/coursera-calculator/static/js/main.9426eae2.js.map",
+    "787.69c1eea2.chunk.js.map": "/coursera-calculator/static/js/787.69c1eea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d06352.css",
+    "static/js/main.9426eae2.js"
+  ]
+}
